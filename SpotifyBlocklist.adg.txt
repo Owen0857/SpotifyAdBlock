@@ -527,6 +527,7 @@
 ||ad.uk.doubleclick.net^
 ||ad.uk.mo.doubleclick.net^
 ||ad.ve.doubleclick.net^
+||advertising.com^
 ||advertisers.l.doubleclick.net^
 ||ad.video-ak.cdn.spotify.com^
 ||ad-yt-bfp.doubleclick.net^
@@ -817,6 +818,7 @@
 ||audio4-ak-spotify-com.akamaized.net^
 ||audio4-ak.spotify.com.edgesuite.net^
 ||audio-ake.spotify.com.edgesuite.net^
+||audio-ak-spotify-com.akamaized.net^
 ||audio-akp-bbr-spotify-com.akamaized.net^
 ||audio-akp.spotify.com^
 ||audio-akp-spotify-com.akamaized.net^
@@ -1138,7 +1140,6 @@
 ||cs410.wac.edgecastcdn.net^
 ||cs41.wac.edgecastcdn.net^
 ||cs434.wac.edgecastcdn.net^
-||cs439.wpc.4d34.edgecastcdn.net^
 ||cs491.wac.edgecastcdn.net^
 ||cs49.wac.edgecastcdn.net^
 ||cs531.wpc.edgecastcdn.net^
@@ -1292,7 +1293,6 @@
 ||eip-onnet.audio-ak.spotify.com.akahost.net^
 ||eip-tata.audio-ak.spotify.com.akahost.net^
 ||ejs.moatads.com^
-||encrypted-tbn0.gstatic.com^
 ||eng.admob.com^
 ||engineering.intercom.io^
 ||eu-gmtdmp.gd1.mookie1.com^
@@ -1787,6 +1787,7 @@
 ||googleadservices.com^
 ||googleads.g.doubleclick.net^
 ||googlesyndication.com^
+||google-analytics.com^
 ||go.scdn.co^
 ||gtssl2-ocsp.geotrust.com^
 ||gw.admob.com^
